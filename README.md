@@ -7,15 +7,11 @@
 | M312B4KY0660      | Arma Nasrul Mustofa             | Machine Learning  | Universitas Sebelas Maret      |
 | M312B4KY0660      | Billie Zandra Widiyanto         | Machine Learning  | Universitas Sebelas Maret      |
 
---
-
 ## Dataset
 https://www.kaggle.com/datasets/mostafaabla/garbage-classification/data
 
 ## Model: ResNet50
 We utilize **ResNet50**, a deep convolutional neural network that is widely recognized for its performance in image classification and feature extraction tasks. 
-
---
 
 ## Features
 - **Data Augmentation**: Enhanced training with image transformations like flipping, rotation, and zooming.
