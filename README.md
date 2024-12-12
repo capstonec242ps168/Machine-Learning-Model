@@ -22,5 +22,5 @@ We utilize **ResNet50**, a deep convolutional neural network that is widely reco
 ### Model Accuracy & Loss
 <code>- accuracy: 0.9898 - loss: 0.0429 - val_accuracy: 0.9492 - val_loss: 0.1785 - learning_rate: 1.0000e-04</code>
 <p align="left">
-  <img src="https://github.com/capstonec242ps168/Machine-Learning-Model/blob/main/Result/Grafik.png" alt="Deskripsi Gambar" style="width:50%; border: 1px solid black;">
+  <img src="https://github.com/capstonec242ps168/Machine-Learning-Model/blob/main/Result/Grafik.png" alt="Deskripsi Gambar" style="width:100%; border: 1px solid black;">
 </p>
